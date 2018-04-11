@@ -1,0 +1,103 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{Ahissar_2016}
+E.~Ahissar, E.~Assa, and D.~Kleinfeld, ``Perception as a closed-loop
+  convergence process,'' 05 2016.
+
+\bibitem{Bagdasarian_2013}
+K.~Bagdasarian, M.~Szwed, P.~M. Knutsen, D.~Deutsch, D.~Derdikman, M.~Pietr,
+  E.~Simony, and E.~Ahissar, ``Pre-neuronal morphological processing of object
+  location by individual whiskers,'' vol.~16, p. 622, 04 2013.
+
+\bibitem{Chorley_2009}
+C.~Chorley, C.~Melhuish, T.~Pipe, and J.~Rossiter, ``Development of a tactile
+  sensor based on biologically inspired edge encoding,'' in \emph{2009 Int.
+  Conf. on Advanced Robotics}, June 2009, pp. 1--6.
+
+\bibitem{dahiya_tactile_2010}
+R.~Dahiya, G.~Metta, M.~Valle, and G.~Sandini, ``Tactile sensing-from humans to
+  humanoids,'' \emph{IEEE Trans. on Robotics}, vol.~26, no.~1, pp. 1--20, 2010.
+
+\bibitem{Hughes_2017}
+J.~Hughes and F.~Iida, ``Localized differential sensing of soft deformable
+  surfaces,'' in \emph{2017 IEEE Int. Conf. on Robotics and Automation (ICRA)},
+  May 2017, pp. 4959--4964.
+
+\bibitem{Lepora_2017}
+L.~Cramphorn, B.~Ward-Cherrier, and N.~F. Lepora, ``Addition of a biomimetic
+  fingerprint on an artificial fingertip enhances tactile spatial acuity,''
+  \emph{IEEE Robotics and Automation Letters}, vol.~2, no.~3, pp. 1336--1343,
+  July 2017.
+
+\bibitem{culha2014svas3}
+U.~Culha, S.~G. Nurzaman, F.~Clemens, and F.~Iida, ``Svas3: strain vector aided
+  sensorization of soft structures,'' \emph{Sensors}, vol.~14, no.~7, pp.
+  12\,748--12\,770, 2014.
+
+\bibitem{fumiya_2016}
+F.~Iida and S.~Nurzaman, ``Adaptation of sensor morphology: An integrative view
+  of perception from biologically inspired robotics perspective,'' vol.~6, p.
+  20160016, 08 2016.
+
+\bibitem{Gastaldo_2015}
+P.~Gastaldo, L.~Pinna, L.~Seminara, M.~Valle, and R.~Zunino, ``A tensor-based
+  approach to touch modality classification by using machine learning,''
+  \emph{Robotics and Autonomous Systems}, vol.~63, no. Part 3, pp. 268 -- 278,
+  2015, advances in Tactile Sensing and Touch-based Human Robot Interaction.
+
+\bibitem{Silvera_2012}
+D.~S. Tawil, D.~Rye, and M.~Velonaki, ``Interpretation of the modality of touch
+  on an artificial arm covered with an eit-based sensitive skin,'' \emph{The
+  International Journal of Robotics Research}, vol.~31, no.~13, pp. 1627--1641,
+  2012.
+
+\bibitem{Kaboli_2015}
+M.~Kaboli, A.~Long, and G.~Cheng, ``Humanoids learn touch modalities
+  identification via multi-modal robotic skin and robust tactile descriptors,''
+  \emph{Advanced Robotics}, vol.~29, no.~21, pp. 1411--1425, 2015.
+
+\bibitem{schmitz_methods_2011}
+A.~Schmitz, P.~Maiolino, M.~Maggiali, L.~Natale, G.~Cannata, and G.~Metta,
+  ``Methods and {Technologies} for the {Implementation} of {Large}-{Scale}
+  {Robot} {Tactile} {Sensors},'' \emph{IEEE Trans. on Robotics}, vol.~27,
+  no.~3, pp. 389--400, June 2011.
+
+\bibitem{shimojo_mechanical_1997}
+M.~Shimojo, ``Mechanical filtering effect of elastic cover for tactile
+  sensor,'' \emph{IEEE Trans. Robot. Automat.}, vol.~13, no.~1, pp. 128--132,
+  Feb. 1997.
+
+\bibitem{tipping_probabilistic_1999}
+M.~E. Tipping and C.~M. Bishop, ``\BIBforeignlanguage{en}{Probabilistic
+  principal component analysis},'' \emph{\BIBforeignlanguage{en}{Journal of the
+  Royal Statistical Society: Series B (Statistical Methodology)}}, vol.~61,
+  no.~3, pp. 611--622, Jan. 1999.
+
+\bibitem{lloyd_least_1982}
+S.~Lloyd, ``Least {Squares} {Quantization} in {PCM},'' \emph{IEEE Trans.
+  Inform. Theory}, vol.~28.
+
+\bibitem{dellon1992human}
+E.~S. Dellon, R.~Mourey, and A.~L. Dellon, ``Human pressure perception values
+  for constant and moving one-and two-point discrimination.'' \emph{Plastic and
+  reconstructive surgery}, vol.~90, no.~1, pp. 112--117, 1992.
+
+\end{thebibliography}
