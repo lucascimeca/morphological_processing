@@ -168,7 +168,7 @@ def simulate_skin_data(skin_data, interpolation=None):
         Inputs: time_snapshot = (MxN) numpy array 
         Output: (10x10) plot of the skin time snapshot onto a canvas """
 def print_skin_data(time_snapshot):
-    skin_canvas = np.ones((10, 10))* np.min(time_snapshot, axis=(0,1))
+    skin_canvas = np.ones((10, 10)) * np.min(time_snapshot, axis=(0,1))
     skin_array = fill_canvas(skin_canvas, time_snapshot)
     return plt.imshow(skin_array, cmap='gray', interpolation='bicubic')
 
@@ -317,7 +317,7 @@ def apply_KMC(X, targets=None, tactile_objects=None, tactile_classes=None, targe
                 for old_cls_name in tactile_classes:
                     cluster_objects[i] = cluster_objects[i].replace(old_cls_name, class_names[old_cls_name], 10)
 
-        #  ----- ADD PLOT LABELS AND LEGENTS -------
+        #  ----- ADD PLOT LABELS AND LEGENDS -------
         # plot class name
         if tactile_classes is not None:
             for i in range(X.shape[0]):

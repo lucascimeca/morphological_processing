@@ -108,7 +108,7 @@ class ExperimentSetup:
                     bbox_inches="tight")
 
                     cls_plt.tight_layout()
-                    cls_plt.savefig('../manuscript/generated_figures/'+ experiment_name  + '_' +'clsplt_(' + task_name + ').pdf',
+                    cls_plt.savefig('../manuscript/generated_figures/'+ experiment_name  + '_' + 'clsplt_(' + task_name + ').pdf',
                     bbox_inches="tight")
 
         else:

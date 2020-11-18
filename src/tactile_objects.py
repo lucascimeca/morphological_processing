@@ -31,7 +31,7 @@ class TactileObjects:
         if classes is not None:
             objects = []
             # bad computationally! but we only expect few classes
-            obj_pairing =  {v: k for k, v in self.class_pairings.items()}
+            obj_pairing = {v: k for k, v in self.class_pairings.items()}
             for cls in classes:
                 objects.append(obj_pairing[cls])
             return objects
